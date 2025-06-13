@@ -59,10 +59,6 @@ This project effectively demonstrates a practical use case of multi-cloud archit
 
 ![Image](https://github.com/user-attachments/assets/97cef892-192a-47a0-a301-d43ee9b58134)
 
-![Image](https://github.com/user-attachments/assets/a13cc110-4b73-47a5-bc10-5c0e1def1890)
-
-![Image](https://github.com/user-attachments/assets/6303969e-9b6f-4615-8baa-ad4e84c84bd5)
-
 ![Image](https://github.com/user-attachments/assets/a271b18b-26a8-4fea-a372-25466ea3b065)
 
 ![Image](https://github.com/user-attachments/assets/99002afb-ebde-46a3-830e-c3e2ee4c9339)
