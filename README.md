@@ -12,7 +12,8 @@
 
 **MENTOR**: NEELA SANTOSH
 
-**DESCRIPTION**
+# DESCRIPTION
+
 This project demonstrates the design, development, and deployment of a simple multi-cloud architecture, where the frontend and backend services are hosted on Amazon Web Services (AWS) and Render, respectively. The application seamlessly integrates these services to function as a cohesive system, showcasing real-world cross-platform cloud communication.
 
  **Objective:** The primary goal of this project is to design a multi-cloud architecture where the frontend and backend services are hosted independently on two different cloud providers and can communicate securely and reliably. The approach demonstrates the benefits of platform diversity and fault tolerance by avoiding a single point of failure.
@@ -52,3 +53,18 @@ This project effectively demonstrates a practical use case of multi-cloud archit
   
 # OUTPUT
 
+![Image](https://github.com/user-attachments/assets/0e4bb12b-bf47-423e-8b6e-87525c1d5c2d)
+
+![Image](https://github.com/user-attachments/assets/e3a0027b-07a2-40bc-b731-2a199104edec)
+
+![Image](https://github.com/user-attachments/assets/97cef892-192a-47a0-a301-d43ee9b58134)
+
+![Image](https://github.com/user-attachments/assets/a13cc110-4b73-47a5-bc10-5c0e1def1890)
+
+![Image](https://github.com/user-attachments/assets/6303969e-9b6f-4615-8baa-ad4e84c84bd5)
+
+![Image](https://github.com/user-attachments/assets/a271b18b-26a8-4fea-a372-25466ea3b065)
+
+![Image](https://github.com/user-attachments/assets/99002afb-ebde-46a3-830e-c3e2ee4c9339)
+
+![Image](https://github.com/user-attachments/assets/47cea4e4-b243-42b3-8ed5-97a8a0f6ff64)
