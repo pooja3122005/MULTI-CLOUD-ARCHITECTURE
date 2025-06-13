@@ -12,7 +12,7 @@
 
 **MENTOR**: NEELA SANTOSH
 
-# DESCRIPTION
+**DESCRIPTION**
 
 This project demonstrates the design, development, and deployment of a simple multi-cloud architecture, where the frontend and backend services are hosted on Amazon Web Services (AWS) and Render, respectively. The application seamlessly integrates these services to function as a cohesive system, showcasing real-world cross-platform cloud communication.
 
@@ -51,7 +51,7 @@ Reduced Vendor Lock-In: Services can be migrated or extended across providers ea
 **Conclusion:**
 This project effectively demonstrates a practical use case of multi-cloud architecture using two popular platforms—AWS and Render. It highlights how services hosted on separate cloud environments can interact seamlessly, enabling developers and organizations to harness the strengths of multiple providers. This architecture forms a foundational blueprint for building more complex, distributed, and resilient applications in the cloud era.
   
-# OUTPUT
+**OUTPUT**
 
 ![Image](https://github.com/user-attachments/assets/0e4bb12b-bf47-423e-8b6e-87525c1d5c2d)
 
